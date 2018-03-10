@@ -1,4 +1,4 @@
-# 5991-Group3-Abigale
+# ABIGALE
 
 ## Course
 INFO5991-Services Science Mangement and Engineering
@@ -19,6 +19,7 @@ INFO5991-Services Science Mangement and Engineering
 + Bingqing Zhao (Betty)
 
 ## Assessment Information
+### Assessment Summary
 | Assessment name	| Team-based?	| Weight | Due | Outcomes Assessed |
 |:---------------:|:-----------:|:------:|:---:|:-----------------:|
 | Ass.1 Group profile and capability summary | Yes | 3%	| Week 3 (Thursday, 5 PM) |	6, 7 |
@@ -29,3 +30,11 @@ INFO5991-Services Science Mangement and Engineering
 | In class end-of-semester test	| No	| 20%	| Week 13 (Thursday, 6 PM)	| 1, 2, 3, 4 |
 | Ass.5 Consultants' Report	| Yes	| 30%	| Exam Period (Thursday, 6 PM)	| 1, 2, 3, 4, 5, 6, 7 |
 | Group article reviews and presentations |	Yes |	10%	| Multiple Weeks	| 1, 2, 3, 4, 5, 6, 7 |
+### Assessment Discription
+The Consultants` Report consists of a critical analysis of a service technology for a client and a recommendation to that client based on their needs. Assignments 2, and 3 are preliminary steps to creating the final report. 
+
+Teams also critically review TWO articles, present their review of ONE of them and lead class discussion in Weeks 4 and 9  as well as create a profile of their team’s capabilities.
+
+The two In-class tests are closed book
+### Note:
+The School’s 40% barrier rule (cf. Grading criteria), will be applied to the combination of the two in-class exams So in order to Pass this subject, you need to achieve at least 40% of both in-class tests together.
