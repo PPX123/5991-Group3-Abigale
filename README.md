@@ -14,8 +14,8 @@ INFO5991-Services Science Mangement and Engineering
 + Yuchen Zhang (Gary)
 + Yangyixiong Zhong (Victor)
 + Naijia Guo (Melody)
-+ Yakun Li ()
-+ Danyu You (Namcy)
++ Yakun Li (Ellie)
++ Danyu You (Nancy)
 + Bingqing Zhao (Betty)
 
 ## Assessment Information
@@ -36,5 +36,6 @@ The Consultants` Report consists of a critical analysis of a service technology 
 Teams also critically review TWO articles, present their review of ONE of them and lead class discussion in Weeks 4 and 9  as well as create a profile of their team’s capabilities.
 
 The two In-class tests are closed book
+
 ### Note:
 The School’s 40% barrier rule (cf. Grading criteria), will be applied to the combination of the two in-class exams So in order to Pass this subject, you need to achieve at least 40% of both in-class tests together.
