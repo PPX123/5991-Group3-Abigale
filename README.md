@@ -8,3 +8,10 @@ INFO5991-Services Science Mangement and Engineering
 
 ### Group Number: 3
 ### Group Name: Abigale
+### Members:
++ Yuchen Zhang
++ Yangyixiong Zhong
++ Naijia Guo
++ Yakun Li
++ Danyu You
++ Bingqing Zhao
