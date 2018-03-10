@@ -4,4 +4,4 @@ INFO5991-Services Science Mangement and Engineering
 ## Group
 ###Group Number: 3
 ###Group Name: Abigale
-![Alt text](https://github.com/PPX123/5991-Group3-Abigale/blob/master/Assignment-1/LOGO.jpg "Abigale")
+(https://github.com/PPX123/5991-Group3-Abigale/blob/master/Assignment-1/LOGO.jpg "Abigale")
