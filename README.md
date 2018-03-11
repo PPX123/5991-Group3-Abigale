@@ -5,7 +5,7 @@ INFO5991-Services Science Mangement and Engineering
 
 ## Group
 <p align="center">
-  <img src="https://github.com/PPX123/5991-Group3-Abigale/blob/master/Assignment-1/LOGO.jpg" width="150">
+  <img src="https://github.com/PPX123/5991-Group3-Abigale/blob/master/Assignment-1/Resources/LOGO.jpg" width="150">
 </p>
 
 ### Group Number: 3
