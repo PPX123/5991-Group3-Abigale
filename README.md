@@ -11,12 +11,12 @@ INFO5991-Services Science Mangement and Engineering
 ### Group Number: 3
 ### Group Name: Abigale
 ### Members:
-+ Yuchen Zhang (Gary)
-+ Yangyixiong Zhong (Victor)
-+ Naijia Guo (Melody)
-+ Yakun Li (Ellie)
-+ Danyu You (Nancy)
-+ Bingqing Zhao (Betty)
++ Yuchen Zhang (Gary) - Coordinator
++ Yangyixiong Zhong (Victor) - Member
++ Naijia Guo (Melody) - Member
++ Yakun Li (Ellie) - Member
++ Danyu You (Nancy) - Member
++ Bingqing Zhao (Betty) - Member
 
 ## Assessment Information
 ### Assessment Summary
