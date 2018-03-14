@@ -1,0 +1,2 @@
+# Assignment 2
+**Constructing a synthesis grid for your Consultants Report (Individual)**, you search for sources of evidence relevant to Newtown Bank’s IT goals about ONE of the three techniques above which you have chosen as your specialisation. You evaluate these sources according to the R.E.V.I.E.W. criteria on the Library’s website, organise information from them into a synthesis grid, cite each article, and create a glossary and bibliography.
